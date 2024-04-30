@@ -1,0 +1,799 @@
+{
+  "vaultName": "AP Physics C Review",
+  "lastExport": 1714499627819,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title folder-note-underline-path fn-whitespace-stop-collapsing math-booster-preview-enabled AT-row",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "AP Physics C/Angular momentum.md",
+    "AP Physics C/Angular motion.md",
+    "AP Physics C/AP PHYSICS S1 WIKI.md",
+    "AP Physics C/Center of mass, gravity.md",
+    "lib/media/pasted-image-20240403220957.png",
+    "lib/media/pasted-image-20240403225024.png",
+    "lib/media/pasted-image-20240403224828.png",
+    "lib/media/pasted-image-20240415201501.png",
+    "lib/media/pasted-image-20240215102130.png",
+    "lib/media/pasted-image-20240215104626.png",
+    "lib/media/pasted-image-20240223103627.png",
+    "lib/media/pasted-image-20240223104842.png",
+    "lib/media/pasted-image-20240228172840.png",
+    "lib/media/pasted-image-20240221100336.png",
+    "lib/media/pasted-image-20240222132632.png",
+    "lib/media/pasted-image-20240228174035.png",
+    "lib/media/pasted-image-20240228174850.png",
+    "lib/media/pasted-image-20230912084341.png",
+    "lib/media/vector_additiont!500.gif",
+    "lib/media/pasted-image-20230914083546.png",
+    "lib/media/pasted-image-20230928150633.png",
+    "lib/media/pasted-image-20230928150903.png",
+    "lib/media/uniform-cirular-translation.gif",
+    "lib/media/62070_graph_blankb_lg.png",
+    "lib/media/drawing-2023-11-13-21.29.02.excalidraw.png",
+    "lib/media/drawing-2023-11-28-12.11.11.excalidraw.png",
+    "lib/media/drawing-2023-11-28-11.51.51.excalidraw.png",
+    "lib/media/pasted-image-20231128123612.png",
+    "lib/media/drawing-2023-11-28-09.52.05.excalidraw.png",
+    "lib/media/pasted-image-20231128101941.png",
+    "lib/media/pasted-image-20231128100630.png",
+    "lib/media/drawing-2023-12-02-19.16.28.excalidraw.png",
+    "lib/media/pasted-image-20231214142528.png",
+    "lib/media/pasted-image-20231213182436.png",
+    "lib/media/pasted-image-20240103164716.png",
+    "lib/media/pasted-image-20240104162826.png",
+    "lib/media/pasted-image-20240108115000.png",
+    "lib/media/pasted-image-20240108115610.png",
+    "lib/media/pasted-image-20240110195341.png",
+    "lib/media/pasted-image-20240201161331.png",
+    "lib/media/pasted-image-20240201162120.png",
+    "lib/media/pasted-image-20240211183111.png",
+    "lib/media/pasted-image-20240206130813.png",
+    "lib/media/pasted-image-20240211163713.png",
+    "lib/media/pasted-image-20240211164233.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "AP Physics C/Angular momentum.md": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 4128,
+      "exportedPath": "ap-physics-c/angular-momentum.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240403220957.png",
+        "lib/media/pasted-image-20240403225024.png",
+        "lib/media/pasted-image-20240403224828.png",
+        "lib/media/pasted-image-20240415201501.png"
+      ]
+    },
+    "AP Physics C/Angular motion.md": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 7041,
+      "exportedPath": "ap-physics-c/angular-motion.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240215102130.png",
+        "lib/media/pasted-image-20240215104626.png",
+        "lib/media/pasted-image-20240223103627.png",
+        "lib/media/pasted-image-20240223104842.png",
+        "lib/media/pasted-image-20240228172840.png",
+        "lib/media/pasted-image-20240221100336.png",
+        "lib/media/pasted-image-20240222132632.png",
+        "lib/media/pasted-image-20240228174035.png",
+        "lib/media/pasted-image-20240228174850.png"
+      ]
+    },
+    "AP Physics C/AP PHYSICS S1 WIKI.md": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 35118,
+      "exportedPath": "ap-physics-c/ap-physics-s1-wiki.html",
+      "dependencies": [
+        "lib/media/pasted-image-20230912084341.png",
+        "lib/media/vector_additiont!500.gif",
+        "lib/media/vector_additiont!500.gif",
+        "lib/media/pasted-image-20230914083546.png",
+        "lib/media/pasted-image-20230928150633.png",
+        "lib/media/pasted-image-20230928150903.png",
+        "lib/media/uniform-cirular-translation.gif",
+        "lib/media/62070_graph_blankb_lg.png",
+        "lib/media/drawing-2023-11-13-21.29.02.excalidraw.png",
+        "lib/media/drawing-2023-11-28-12.11.11.excalidraw.png",
+        "lib/media/drawing-2023-11-28-11.51.51.excalidraw.png",
+        "lib/media/pasted-image-20231128123612.png",
+        "lib/media/drawing-2023-11-28-09.52.05.excalidraw.png",
+        "lib/media/pasted-image-20231128101941.png",
+        "lib/media/pasted-image-20231128100630.png",
+        "lib/media/drawing-2023-12-02-19.16.28.excalidraw.png",
+        "lib/media/pasted-image-20231214142528.png",
+        "lib/media/pasted-image-20231213182436.png",
+        "lib/media/pasted-image-20240103164716.png",
+        "lib/media/pasted-image-20240104162826.png",
+        "lib/media/pasted-image-20240108115000.png",
+        "lib/media/pasted-image-20240108115610.png",
+        "lib/media/pasted-image-20240110195341.png"
+      ]
+    },
+    "AP Physics C/Center of mass, gravity.md": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 3447,
+      "exportedPath": "ap-physics-c/center-of-mass,-gravity.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240201161331.png",
+        "lib/media/pasted-image-20240201162120.png",
+        "lib/media/pasted-image-20240211183111.png",
+        "lib/media/pasted-image-20240206130813.png",
+        "lib/media/pasted-image-20240211163713.png",
+        "lib/media/pasted-image-20240211164233.png"
+      ]
+    },
+    "lib/media/pasted-image-20240403220957.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 82229,
+      "exportedPath": "lib/media/pasted-image-20240403220957.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240403225024.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 84938,
+      "exportedPath": "lib/media/pasted-image-20240403225024.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240403224828.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 127177,
+      "exportedPath": "lib/media/pasted-image-20240403224828.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240415201501.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 189045,
+      "exportedPath": "lib/media/pasted-image-20240415201501.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240215102130.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 14275,
+      "exportedPath": "lib/media/pasted-image-20240215102130.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240215104626.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 15941,
+      "exportedPath": "lib/media/pasted-image-20240215104626.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240223103627.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 56373,
+      "exportedPath": "lib/media/pasted-image-20240223103627.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240223104842.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 37960,
+      "exportedPath": "lib/media/pasted-image-20240223104842.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240228172840.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 64040,
+      "exportedPath": "lib/media/pasted-image-20240228172840.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240221100336.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 37380,
+      "exportedPath": "lib/media/pasted-image-20240221100336.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240222132632.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 40033,
+      "exportedPath": "lib/media/pasted-image-20240222132632.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240228174035.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 96034,
+      "exportedPath": "lib/media/pasted-image-20240228174035.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240228174850.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 36907,
+      "exportedPath": "lib/media/pasted-image-20240228174850.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20230912084341.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 602545,
+      "exportedPath": "lib/media/pasted-image-20230912084341.png",
+      "dependencies": []
+    },
+    "lib/media/vector_additiont!500.gif": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 13262,
+      "exportedPath": "lib/media/vector_additiont!500.gif",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20230914083546.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 398844,
+      "exportedPath": "lib/media/pasted-image-20230914083546.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20230928150633.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 277359,
+      "exportedPath": "lib/media/pasted-image-20230928150633.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20230928150903.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 18473,
+      "exportedPath": "lib/media/pasted-image-20230928150903.png",
+      "dependencies": []
+    },
+    "lib/media/uniform-cirular-translation.gif": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 204633,
+      "exportedPath": "lib/media/uniform-cirular-translation.gif",
+      "dependencies": []
+    },
+    "lib/media/62070_graph_blankb_lg.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 50000,
+      "exportedPath": "lib/media/62070_graph_blankb_lg.png",
+      "dependencies": []
+    },
+    "lib/media/drawing-2023-11-13-21.29.02.excalidraw.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 46010,
+      "exportedPath": "lib/media/drawing-2023-11-13-21.29.02.excalidraw.png",
+      "dependencies": []
+    },
+    "lib/media/drawing-2023-11-28-12.11.11.excalidraw.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 18784,
+      "exportedPath": "lib/media/drawing-2023-11-28-12.11.11.excalidraw.png",
+      "dependencies": []
+    },
+    "lib/media/drawing-2023-11-28-11.51.51.excalidraw.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 101119,
+      "exportedPath": "lib/media/drawing-2023-11-28-11.51.51.excalidraw.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231128123612.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 3795,
+      "exportedPath": "lib/media/pasted-image-20231128123612.png",
+      "dependencies": []
+    },
+    "lib/media/drawing-2023-11-28-09.52.05.excalidraw.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 8108,
+      "exportedPath": "lib/media/drawing-2023-11-28-09.52.05.excalidraw.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231128101941.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 73473,
+      "exportedPath": "lib/media/pasted-image-20231128101941.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231128100630.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 35396,
+      "exportedPath": "lib/media/pasted-image-20231128100630.png",
+      "dependencies": []
+    },
+    "lib/media/drawing-2023-12-02-19.16.28.excalidraw.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 90728,
+      "exportedPath": "lib/media/drawing-2023-12-02-19.16.28.excalidraw.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231214142528.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 110168,
+      "exportedPath": "lib/media/pasted-image-20231214142528.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231213182436.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 531377,
+      "exportedPath": "lib/media/pasted-image-20231213182436.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240103164716.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 23373,
+      "exportedPath": "lib/media/pasted-image-20240103164716.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240104162826.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 20551,
+      "exportedPath": "lib/media/pasted-image-20240104162826.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240108115000.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 62196,
+      "exportedPath": "lib/media/pasted-image-20240108115000.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240108115610.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 71164,
+      "exportedPath": "lib/media/pasted-image-20240108115610.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110195341.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 25872,
+      "exportedPath": "lib/media/pasted-image-20240110195341.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240201161331.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 36134,
+      "exportedPath": "lib/media/pasted-image-20240201161331.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240201162120.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 18091,
+      "exportedPath": "lib/media/pasted-image-20240201162120.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240211183111.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 159516,
+      "exportedPath": "lib/media/pasted-image-20240211183111.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240206130813.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 46341,
+      "exportedPath": "lib/media/pasted-image-20240206130813.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240211163713.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 113771,
+      "exportedPath": "lib/media/pasted-image-20240211163713.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240211164233.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 35522,
+      "exportedPath": "lib/media/pasted-image-20240211164233.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 2673,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 498,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 157786,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 25520,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 1377723,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 656,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1714499627819,
+      "sourceSize": 10088,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
